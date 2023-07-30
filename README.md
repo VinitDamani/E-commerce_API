@@ -38,7 +38,7 @@ You may also see any lint errors in the console.
 
 ## 🔗 Links
 
-> ## Checkout the website link https://e-com-api-ajay.herokuapp.com/
+> ## Checkout the website link https://e-commerce-api-cjry.onrender.com/
 
 
 <br/>
